@@ -1,0 +1,51 @@
+.nom{
+	margin-left: 2%;
+
+}
+.email{
+	margin-left: 2%;
+	padding-top: 5px;
+}
+.email2{
+	margin-left: 2%;
+	padding-top: 5px;
+}
+.password{
+	margin-left: 2%;
+	padding-top: 5px;
+}
+.naissance{
+	margin-left: 2%;
+}
+.sexe{
+	margin-left: 2%;
+}
+.button-inscription{
+	color: white;
+	background-color: green;
+	margin-left: 2%;
+	height: 35px;
+	width: 90px;
+	font-style: bold;
+}
+.connexion{
+	height: 40px;
+	background-color:royalblue;
+	color: white;
+	display: flex;
+	padding-left: 5px;
+}
+.button-connexion{
+	color: white;
+	background-color: blue;
+	height: 25px;
+	margin-left: 15px;
+	margin-top: 8px;
+}
+.pwd{
+	padding-left: 15px;
+	padding-top: 8px;
+}
+.login{
+	padding-top: 8px;
+}
